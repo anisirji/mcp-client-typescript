@@ -220,3 +220,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Built with ❤️ using TypeScript, Express, and OpenAI
+## Portfolio
+
+More about this project: https://theani.me/work/mcp-client
